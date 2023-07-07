@@ -34,3 +34,18 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.q-item.q-router-link--active,
+.q-item--active {
+  color: #000000 !important;
+  background: #e1f5fe;
+  /* margin: 2px 0px 2px 15px; */
+  /* border-radius: 10px 0px 0px 10px; */
+}
+.q-item {
+  margin: 2px 0px 2px 15px;
+  border-radius: 10px 0px 0px 10px;
+  color: #e1f5fe;
+}
+</style>

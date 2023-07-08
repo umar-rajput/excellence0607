@@ -19,6 +19,12 @@ export default function () {
         dueDate: "01/07/2023",
         dueTime: "15:00",
       },
+      id4: {
+        name: "Go to gym",
+        completed: false,
+        dueDate: "02/07/2023",
+        dueTime: "06:00",
+      },
     },
     // tasks: [
     //   {
